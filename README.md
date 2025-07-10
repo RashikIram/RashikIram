@@ -11,8 +11,19 @@
 
 ---
 
-c
-📫 Reach me: [rashikiramchowdhury@gmail.com](mailto:rashikiramchowdhury@gmail.com)
+🔭 Currently an **Adjunct Lecturer** at Southeast University  
+🧠 Former **Research Assistant** at North South University  
+🎓 BSc in **Computer Science & Engineering**, North South University  
+
+📚 Actively exploring: **Open-world Object Detection**, **Long-tailed Classification**, and **Causal Inference**  
+🔬 Research interests: **Social Impact AI**, **Medical Image Analysis**, and **Multimodal LLMs**  
+📝 Published in **Q1 journals** (IF 6.1, IF 4.5); contributed to assistive technologies for the visually impaired  
+💡 Built real-time AI systems with segmentation, depth estimation, and object detection  
+📦 Tools I work with: PyTorch, TensorFlow, Hugging Face, OpenCV, ONNX, LoRA, Grad-CAM, NumPy, Android Studio  
+
+🤝 Looking to collaborate on: **Medical AI**, **Social Good Projects**, and **Multimodal Research**  
+📫 Reach me at: [rashikiramchowdhury@gmail.com](mailto:rashikiramchowdhury@gmail.com)
+
 
 ---
 
