@@ -6,12 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f6b4f857d85a0d3ef0a64ef7d1b9937a3e438a1b865edbfa2ff8fa4cd5d7a9c7/68747470733a2f2f7777772e77696e64616d6f2e6f72672f66696c65732f323031382f30352f446576656c6f7065722e676966" alt="dev gif" width="60%" />
+  <img src="![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/5ce7b35a-a2f9-4e2f-9692-70cc2121860f)
+" alt="dev gif" width="60%" />
 </p>
 
 ---
 
-🔭 Currently an **Adjunct Lecturer** at Southeast University  
+🔭 Currently working as an **Adjunct Lecturer** at Southeast University  
 🧠 Former **Research Assistant** at North South University  
 🎓 BSc in **Computer Science & Engineering**, North South University  
 
