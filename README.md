@@ -1,4 +1,4 @@
-<img width="878" height="236" alt="image" src="https://github.com/user-attachments/assets/fb1e95ac-e5a4-4602-a4f0-9f9c9325f650" />
+![Header Image](https://github.com/user-attachments/assets/34d2e4fb-448d-4bb1-bcc9-3100b9f26d84)
 
 <h1 align="center">Hi 👋, I'm Rashik Iram Chowdhury</h1>
 <h3 align="center">A Deep Learning Researcher exploring PhD opportunities</h3>
