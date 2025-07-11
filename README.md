@@ -1,54 +1,54 @@
-<img align="center" src="https://your-direct-link/banner-image.gif" width="100%" alt="banner"/>
-
 <h1 align="center">Hi 👋, I'm Rashik Iram Chowdhury</h1>
-<h3 align="center">Deep Learning Researcher | Exploring PhD Opportunities</h3>
+<h3 align="center">A Deep Learning Researcher exploring PhD opportunities</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RashikIram&label=Profile%20views&color=0e75b6&style=flat" alt="rashikiram" />
+  <img src="https://img.shields.io/badge/Profile%20Views-1k-blue" alt="views">
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://your-coding-gif-url.com" />
-
-🔭 Currently an **Adjunct Lecturer** at Southeast University  
-🧠 Former **Research Assistant** at North South University  
-🎓 BSc in **Computer Science & Engineering**, North South University  
-
-📚 Exploring: **Open-world Object Detection**, **Long-tailed Classification**, **Causal Inference**  
-🔬 Research Interests: **Social Impact AI**, **Medical Image Analysis**, **Multimodal LLMs**  
-📝 Published in **Q1 journals** (IF 6.1, IF 4.5); built assistive systems for the visually impaired  
-💡 Developed real-time AI systems using segmentation, depth estimation, and object detection  
-🧰 Tools: PyTorch, TensorFlow, Hugging Face, ONNX, Grad-CAM, OpenCV, LoRA, NumPy, Android Studio  
-
-🤝 Collaborating on: **Applied ML for Social Impact**, **Medical AI**, **Multimodal Learning**  
-📫 Reach me: [rashikiramchowdhury@gmail.com](mailto:rashikiramchowdhury@gmail.com)
+<p align="center">
+  <img src="![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/5ce7b35a-a2f9-4e2f-9692-70cc2121860f)
+" alt="dev gif" width="60%" />
+</p>
 
 ---
 
-### 🔗 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/rashik-iram-chowdhury/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://scholar.google.com/citations?user=O-Rf1kAAAAAJ&hl" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" height="30" width="30" /></a>
-  <a href="https://github.com/RashikIram" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" width="30" /></a>
-</p>
+🔭 Currently working as an **Adjunct Lecturer** at Southeast University  
+🧠 Former **Research Assistant** at North South University  
+🎓 BSc in **Computer Science & Engineering**, North South University  
 
+📚 Actively exploring: **Open-world Object Detection**, **Long-tailed Classification**, and **Causal Inference**  
+🔬 Research interests: **Social Impact AI**, **Medical Image Analysis**, and **Multimodal LLMs**  
+📝 Published in **Q1 journals** (IF 6.1, IF 4.5); contributed to assistive technologies for the visually impaired  
+💡 Built real-time AI systems with segmentation, depth estimation, and object detection  
+📦 Tools I work with: PyTorch, TensorFlow, Hugging Face, OpenCV, ONNX, LoRA, Grad-CAM, NumPy, Android Studio  
+
+🤝 Looking to collaborate on: **Medical AI**, **Social Good Projects**, and **Multimodal Research**  
+📫 Reach me at: [rashikiramchowdhury@gmail.com](mailto:rashikiramchowdhury@gmail.com)
+
+
+---
+
+### 📄 Connect with me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/rashik-iram-chowdhury/)  
+- 🔬 [Google Scholar](https://scholar.google.com/citations?user=O-Rf1kAAAAAJ&hl)  
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,css,kotlin,php,mysql,sqlite,git,django,react,flutter,androidstudio,opencv,huggingface,matlab,colab,tensorflow,pytorch,linux,pandas,scikitlearn,seaborn,docker,latex&perline=10" alt="skills">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,matplotlib,androidstudio,vscode,linux,git,github,latex&perline=9" alt="skills">
 </p>
-<p><i>Also experienced with: NoSQL, Git Bash, Ultralytics, Overleaf, Power BI, Draw.io, Heroku, Adobe Illustrator</i></p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashikIram&layout=compact" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RashikIram&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashikIram&layout=compact" alt="Top Langs" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashikIram" alt="Streak Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RashikIram&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashikIram" alt="GitHub Streak" />
 </p>
 
 ---
