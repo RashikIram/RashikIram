@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rashik Iram Chowdhury</h1>
 <h3 align="center">A Deep Learning Researcher exploring PhD opportunities</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RashikIram&label=Profile%20views&color=0e75b6&style=flat" alt="RashikIram" />
 </p>
