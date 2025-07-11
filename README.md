@@ -1,4 +1,4 @@
-<img width="1472" height="691" alt="Untitled design" src="https://github.com/user-attachments/assets/1069eb32-2124-4f58-9ccd-5d73612105d3" />
+<img width="1472" height="500" alt="Untitled design" src="https://github.com/user-attachments/assets/1069eb32-2124-4f58-9ccd-5d73612105d3" />
 
 
 <h1 align="center">Hi 👋, I'm Rashik Iram Chowdhury</h1>
