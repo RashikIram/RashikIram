@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/34d2e4fb-448d-4bb1-bcc9-3100b9f26d84" alt="Header Image" width="800" height="400" />
-</p>
+<img width="1472" height="691" alt="Untitled design" src="https://github.com/user-attachments/assets/1069eb32-2124-4f58-9ccd-5d73612105d3" />
+
 
 <h1 align="center">Hi 👋, I'm Rashik Iram Chowdhury</h1>
 <h3 align="center">A Deep Learning Researcher exploring PhD opportunities</h3>
