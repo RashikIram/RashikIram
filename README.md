@@ -24,6 +24,7 @@
 💡 Built real-time AI systems with segmentation, depth estimation, and object detection  
 
 🤝 Looking to collaborate on: Healthcare AI applications, assistive technology development, and multimodal research
+
 📫 Reach me at: [rashikiramchowdhury@gmail.com](mailto:rashikiramchowdhury@gmail.com)
 
 ---
