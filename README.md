@@ -21,15 +21,15 @@
 💡 Built real-time AI systems with segmentation, depth estimation, and object detection  
 📦 Tools I work with: PyTorch, TensorFlow, Hugging Face, OpenCV, ONNX, LoRA, Grad-CAM, NumPy, Android Studio  
 
-🤝 Looking to collaborate on: **Medical AI**, **Social Good Projects**, and **Multimodal Research**  
+🤝 Looking to collaborate on: Healthcare AI applications, assistive technology development, and multimodal research
 📫 Reach me at: [rashikiramchowdhury@gmail.com](mailto:rashikiramchowdhury@gmail.com)
-
 
 ---
 
-### 📄 Connect with me:
+### 📄 Find me online:
 - 💼 [LinkedIn](https://www.linkedin.com/in/rashik-iram-chowdhury/)  
-- 🔬 [Google Scholar](https://scholar.google.com/citations?user=O-Rf1kAAAAAJ&hl)  
+- 🔬 [Google Scholar](https://scholar.google.com/citations?user=O-Rf1kAAAAAJ&hl)
+
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -87,10 +87,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashikIram&layout=compact" alt="Top Langs" />
 </p>
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=RashikIram&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashikIram" alt="GitHub Streak" />
 </p>
 
