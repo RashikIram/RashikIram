@@ -17,7 +17,7 @@
   <li>🔬 Research interests: <strong>Social Impact AI</strong>, <strong>Medical Image Analysis</strong>, and <strong>Multimodal LLMs</strong></li>
   <li>📝 Published in <strong>Q1 journals</strong> (IF 6.1, IF 4.5); contributed to assistive technologies for the visually impaired</li>
   <li>💡 Built real-time AI systems with segmentation, depth estimation, and object detection</li>
-  <li>🤝 Looking to collaborate on: Healthcare AI, assistive tech, multimodal research</li>
+  <li>🤝 Looking to collaborate on: Healthcare AI applications, assistive technology development, and multimodal research</li>
   <li>📫 Reach me at: <a href="mailto:rashikiramchowdhury@gmail.com">rashikiramchowdhury@gmail.com</a></li>
 </ul>
 
