@@ -32,7 +32,6 @@
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=O-Rf1kAAAAAJ&hl)  
 ---
 
-### 🛠️ Languages and Tools:
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
