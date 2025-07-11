@@ -3,24 +3,23 @@
 <h1 align="center">Hi 👋, I'm Rashik Iram Chowdhury</h1>
 <h3 align="center">A Deep Learning Researcher exploring PhD opportunities</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RashikIram&label=Profile%20views&color=0e75b6&style=flat" alt="RashikIram" />
 </p>
 
-<p>
-🔭 Currently working as an <strong>Adjunct Lecturer</strong> at Southeast University  
-🧠 Former <strong>Research Assistant</strong> at North South University  
-🎓 BSc in <strong>Computer Science & Engineering</strong>, North South University  
 
-📚 Actively exploring: <strong>Open-world Object Detection</strong>, <strong>Long-tailed Classification</strong>, and <strong>Causal Inference</strong>  
-🔬 Research interests: <strong>Social Impact AI</strong>, <strong>Medical Image Analysis</strong>, and <strong>Multimodal LLMs</strong>  
-📝 Published in <strong>Q1 journals</strong> (IF 6.1, IF 4.5); contributed to assistive technologies for the visually impaired  
-💡 Built real-time AI systems with segmentation, depth estimation, and object detection  
-🤝 Looking to collaborate on: Healthcare AI, assistive tech, multimodal research  
-📫 Reach me at: <a href="mailto:rashikiramchowdhury@gmail.com">rashikiramchowdhury@gmail.com</a>
-</p>
-
+<ul>
+  <li>🔭 Currently working as an <strong>Adjunct Lecturer</strong> at Southeast University</li>
+  <li>🧠 Former <strong>Research Assistant</strong> at North South University</li>
+  <li>🎓 BSc in <strong>Computer Science & Engineering</strong>, North South University</li>
+  <li>📚 Actively exploring: <strong>Open-world Object Detection</strong>, <strong>Long-tailed Classification</strong>, and <strong>Causal Inference</strong></li>
+  <li>🔬 Research interests: <strong>Social Impact AI</strong>, <strong>Medical Image Analysis</strong>, and <strong>Multimodal LLMs</strong></li>
+  <li>📝 Published in <strong>Q1 journals</strong> (IF 6.1, IF 4.5); contributed to assistive technologies for the visually impaired</li>
+  <li>💡 Built real-time AI systems with segmentation, depth estimation, and object detection</li>
+  <li>🤝 Looking to collaborate on: Healthcare AI, assistive tech, multimodal research</li>
+  <li>📫 Reach me at: <a href="mailto:rashikiramchowdhury@gmail.com">rashikiramchowdhury@gmail.com</a></li>
+</ul>
 
 ---
 
